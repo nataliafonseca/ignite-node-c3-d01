@@ -2,7 +2,7 @@
 
 _( Ignite | NodeJS | Capítulo III | Desafio 01 )_
 
-Desafio 01 do capítulo III da trilha NodeJS do Ignite, da rocketseat.
+Desafio 01 do capítulo III da trilha NodeJS do bootcamp Ignite, da Rocketseat.
 
 ## O desafio: Database Queries
 
